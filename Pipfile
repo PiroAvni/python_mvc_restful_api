@@ -9,6 +9,8 @@ python-dotenv = "*"
 flask-cors = "*"
 flask-sqlalchemy = "*"
 psycopg2 = "*"
+flask-wtf = "*"
+wtforms = "*"
 
 [scripts]
 dev="flask run"

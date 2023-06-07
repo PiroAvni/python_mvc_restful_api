@@ -1,4 +1,3 @@
-from application import app, db
 from application import app,db
 
 app.app_context().push()
